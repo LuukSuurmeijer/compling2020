@@ -1,4 +1,4 @@
-#Automatically Assessing Language Relatedness
+# Automatically Assessing Language Relatedness
 
 This repo contains my attempt at automatically constructing language relatedness based on the Levenshtein Distances between words of the Swadesh List. Based on Levenshtein scores between all languages in a family I construct tree models and compare the differences between the canonical trees.
 
