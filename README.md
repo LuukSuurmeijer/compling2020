@@ -3,6 +3,7 @@
 This repo contains my attempt at automatically constructing language relatedness based on the Levenshtein Distances between words of the Swadesh List. Based on Levenshtein scores between all languages in a family I construct tree models and compare the differences between the canonical trees.
 
 This zip file contains the following files and directories:
+```
 .
 ├── HistoricalLM_dev.py	- Class for reading AJSP datafile and performing language relatedness assessment
 ├── levenshtein2.py		- Contains weighted Levenshtein and base Levenshtein functions
@@ -37,6 +38,7 @@ This zip file contains the following files and directories:
 │   ├── germanic_random.nw
 ├── report.pdf	 		- Report
 ├── README.txt	 		- This readme
+```
 
 The following packages are necesarry to run this project:
 - lingpy
